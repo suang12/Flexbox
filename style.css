@@ -217,7 +217,7 @@
   }
   .circle {
     background-color: transparent;
-    border:3px solid purple;
+    border:3px solid rgb(24, 216, 72);
     height:90px;
     position: relative;
     top: -30px;
@@ -229,7 +229,7 @@
 }/* Add padding around the footer as well */
 
 footer {
-    background-color: purple;
+    background-color: rgb(233, 104, 29);
     padding: 20px 10px;
   }/* Sets all link texts to white and puts margin to the left and right */
   
@@ -282,7 +282,7 @@ footer {
 
 .circle {
       background-color: transparent;
-      border:3px solid purple;
+      border:3px solid rgb(25, 228, 92);
       height:90px;
       position: relative;
       top: -30px;
@@ -313,7 +313,7 @@ footer {
 /* Establecer el color púrpura para el fondo de los enlaces de navegación, redondear las esquinas de los bordes y darle algo de espaciado*/
 
   .navbar ul {
-    background: #9867C5;
+    background: #dfd21c;
     border-radius: 5px;
     padding: 10px 0;
   }
@@ -350,7 +350,7 @@ footer {
 
 .circle {
       background-color: transparent;
-      border:3px solid purple;
+      border:3px solid rgb(226, 162, 226);
       height:90px;
       position: relative;
       top: -30px;
